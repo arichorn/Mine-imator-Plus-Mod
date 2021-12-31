@@ -1,0 +1,43 @@
+Okay!
+First of all, thanks for downloading my face rig!
+These are the instructions and the changelog of what's new!
+(Subscribe to SharpWind!)
+
+INSTRUCTIONS:
+
+- Drag the "Sharp's Face Rig 2.0" folder out of the .zip file and put it in your projects.
+- Open it in Mine - Imator 1.2.0 (or above)
+- Delete all the text and the gray cube, so you're only left with the two rigs
+- Don't EVER touch this project again!
+
+Next time you want to use it in YOUR project:
+- Open the project you want the face rig in
+- Click the "import asset" button (right next to the "new project" button)
+- Browse for the face rig and select the ".miproj" file
+
+Congratz, You now have the face rig in your project, without messing up the original!
+
+### NOTE ###
+When scaling the rig, scale the "Eyebrows |Y|" and "Pupils |color|" by the same amount!
+The mouth dropdown needs to be adjusted manually (sry)
+
+
+CHANGELOG:
+
+- Added multiple pupil variants
+- Added a more quality shine for the girl's eyes
+- Added the pupil SSAO
+- Added the mouth dropdown
+- Added the color tint option for the face (for blushing, sadness, sickness, etc.)
+
+- Improoved scaling compatibilities
+- Tweaked eyebrow thickness for both models
+- Fixed eyebrows color changing settings
+- Completely remade the eyelashes for the girl
+- Made teeth scaling easier
+- Increased awesomness!
+
+CREDIT FOR THE RIG IS NECESSARY!
+I won't sue you, I'll just be really sad :(
+
+Have fun with the rig and stay Sharp!
